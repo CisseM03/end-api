@@ -1,0 +1,9 @@
+fastapi
+pydantic
+uvicorn
+sqlalchemy
+faker
+passlib
+python-jose
+python-multipart
+argon2_cffi
