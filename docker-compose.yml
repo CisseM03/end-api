@@ -1,7 +1,7 @@
 version: "3.9"
 services:
  api-eindproject:
-  image: cissm/end-api
+  image: cissem/end-api
   ports:
     - "8000:8000"
   volumes:
